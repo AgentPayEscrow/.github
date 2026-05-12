@@ -8,7 +8,7 @@ AgentPay Escrow lets AI agents make autonomous payments with spending limits set
 
 ## 🚀 Live Demo
 
-**See it working:** https://gleeful-tapioca-754ac1.netlify.app
+**See it working:** https://AgentPayEscrow.github.io/agent-escrow-app/
 
 ---
 
@@ -37,6 +37,7 @@ AgentPay Escrow lets AI agents make autonomous payments with spending limits set
 ---
 
 ## 🏗️ How It Works
+
 Human deposits funds into agent
 
 Human sets spending limits (daily, weekly, monthly)
@@ -50,3 +51,30 @@ ZK proof verifies payment without revealing secrets
 Oracle ensures fair pricing
 
 All recorded on Stellar blockchain
+
+---
+
+## 🎯 For Drips Wave Contributors
+
+| Difficulty | Points | Example Tasks |
+|------------|--------|---------------|
+| Easy | 100 | Fix UI bug, add tests |
+| Medium | 150 | Add new feature, improve ML model |
+| Hard | 200 | ZK circuit optimization, cross-chain bridge |
+
+---
+
+## 📞 Contact
+
+- **Issues:** Open a GitHub issue in the relevant repo
+- **Security:** security@agentpay.io
+
+---
+
+## 📄 License
+
+MIT License - Free for everyone
+
+---
+
+Built for the Stellar Ecosystem | Drips Wave
